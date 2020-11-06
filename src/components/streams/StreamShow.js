@@ -1,7 +1,7 @@
 import React from 'react';
 import {connect} from 'react-redux';
 import {fetchStream} from '../../actions';
-//const NodeMediaServer = require('node-media-server');
+
 
 class StreamShow extends React.Component {
 
